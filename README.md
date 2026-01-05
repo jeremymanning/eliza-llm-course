@@ -1,8 +1,8 @@
 # Assignment 1: Building the ELIZA Chatbot
 
-> **📥 Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/SC1jeftp)
+> **Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/SC1jeftp)
 >
-> **📅 Due:** January 16, 2026 at 11:59 PM EST
+> **Due:** January 16, 2026 at 11:59 PM EST
 >
 > Click the link above to create your private repository for this assignment. Complete your work in Google Colab, then push your notebook to the repository before the deadline.
 
